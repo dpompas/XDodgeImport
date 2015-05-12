@@ -1,0 +1,13 @@
+C:\Users\Diana\documents\visual studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\obj\Debug\DodgeXMLParserImportTest.csprojResolveAssemblyReference.cache
+C:\Users\Diana\documents\visual studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\DodgeImportLoader.dll
+C:\Users\Diana\documents\visual studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\DodgeXMLParser.dll
+C:\Users\Diana\documents\visual studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Diana\documents\visual studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\DodgeImportLoader.pdb
+C:\Users\Diana\documents\visual studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\DodgeXMLParser.pdb
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\DodgeXMLParserImportTest.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\DodgeXMLParserImportTest.pdb
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\obj\Debug\DodgeXMLParserImportTest.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\obj\Debug\DodgeXMLParserImportTest.pdb
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll

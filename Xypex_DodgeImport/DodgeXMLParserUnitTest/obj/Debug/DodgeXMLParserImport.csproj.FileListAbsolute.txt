@@ -1,0 +1,5 @@
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\DodgeXMLParserImport.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\bin\Debug\DodgeXMLParserImport.pdb
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\obj\Debug\DodgeXMLParserImport.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\obj\Debug\DodgeXMLParserImport.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\Xypex_DodgeImport\DodgeXMLParserImport\obj\Debug\DodgeXMLParserImport.pdb

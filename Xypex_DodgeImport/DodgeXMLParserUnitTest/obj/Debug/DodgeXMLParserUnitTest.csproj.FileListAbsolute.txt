@@ -1,0 +1,12 @@
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\bin\Debug\DodgeXMLParserImportTest.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\bin\Debug\DodgeXMLParserImportTest.pdb
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\bin\Debug\DodgeImportLoader.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\bin\Debug\DodgeXMLParser.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\bin\Debug\DodgeImportLoader.pdb
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\bin\Debug\DodgeXMLParser.pdb
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\obj\Debug\DodgeXMLParserImportTest.dll
+C:\Users\Diana\Documents\Visual Studio 2012\Projects\XDodgeImport\Xypex_DodgeImport\DodgeXMLParserUnitTest\obj\Debug\DodgeXMLParserImportTest.pdb
